@@ -1,0 +1,25 @@
+{
+  "name": "crud-siswa",
+  "version": "1.0.0",
+  "description": "Membuat crud data siswa dengan node js framework express dan postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs, postgresql, crud, express"
+  },
+  "keywords": [
+    "nodejs",
+    "postgresql",
+    "crud",
+    "express"
+  ],
+  "author": "Hadi-Firmansyah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.4.1"
+  }
+}
