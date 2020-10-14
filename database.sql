@@ -1,3 +1,4 @@
+//CATATAN DOANG
 CREATE DATABASE db_siswa;
 
 CREATE TABLE siswa(
